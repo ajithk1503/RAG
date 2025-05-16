@@ -1,0 +1,7 @@
+ipykernel
+langchain
+langchain_community
+bs4
+pypdf
+chromadb
+faiss-cpu
