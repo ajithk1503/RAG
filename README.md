@@ -15,13 +15,4 @@ Plug-and-play support for **ChromaDB** and **FAISS**
  Fast and efficient document retrieval
 Load and chunk custom documents (PDF, TXT, etc.)
 
-## 🧱 Tech Stack
-
-- Python 3.9+
-- [LangChain](https://www.langchain.com/)
-- [ChromaDB](https://www.trychroma.com/)
-- [FAISS](https://github.com/facebookresearch/faiss)
-- [OpenAI API](https://platform.openai.com/) or HuggingFace Transformers
-
-## 📁 Directory Structure
 
