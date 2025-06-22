@@ -1,2 +1,2 @@
-# Basic_RAG
+# RAG
 RAG Pipeline with Chromadb and FAISS
